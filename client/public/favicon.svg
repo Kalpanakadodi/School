@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#FFFFFF" stroke="#333333" stroke-width="4"/>
+  <circle cx="50" cy="50" r="41" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="1.5"/>
+  <!-- Open Book -->
+  <path d="M 32 62 Q 50 67 50 48 Q 50 67 68 62 L 68 40 Q 50 45 50 32 Q 50 45 32 40 Z" fill="#FFFFFF" stroke="#333333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Flame / Torch of Wisdom -->
+  <path d="M 50 20 C 47 26 44 29 48 35 C 50 31 52 30 50 27 C 54 29 55 33 52 36 C 56 31 54 24 50 20 Z" fill="#333333"/>
+  <!-- Base Star -->
+  <polygon points="50,68 52,73 57,73 53,76 55,81 50,78 45,81 47,76 43,73 48,73" fill="#333333"/>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "augustine-school-website",
+  "version": "1.0.0",
+  "description": "Official Website for Augustine English Medium HPS & HS, Hallikhed (B)",
+  "private": true,
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "install:all": "npm install && npm --prefix server install && npm --prefix client install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
